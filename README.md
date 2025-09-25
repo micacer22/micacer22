@@ -9,12 +9,10 @@ I’m passionate about **epigenetics** applied to plant virus interaction genes.
 - 🔭 I’m currently pursuing a PhD in Biotechnology at the Polytechnic University of Valencia. My doctoral studies are focused on integrating advanced research methodologies and digital transformation strategies into biotechnological innovation.
 
 - Supervisory Team: I am fortunate to work under the guidance of two distinguished supervisors:
-      Dr. REGIS CORREA
-      Dr.CHRISTINA TOFT
+      Dr. REGIS CORREA and Dr.CHRISTINA TOFT
 
 - Research Groups at the Institute of Integrative Systems Biology, I2SysBio:
-      Epigenetic Complexes in Plant Immunity
-      Panomics and Evolutionary Biology and Systems Microbiology
+      Epigenetic Complexes in Plant Immunity and Panomics and Evolutionary Biology and Systems Microbiology
   
 🎬 [Watch my research talk here](https://www.youtube.com/watch?v=1Rq5uKEMlOo)
   
