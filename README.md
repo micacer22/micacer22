@@ -16,6 +16,8 @@ I’m passionate about **epigenetics** applied to plant virus interaction genes.
       Epigenetic Complexes in Plant Immunity
       Panomics and Evolutionary Biology and Systems Microbiology
   
+🎬 [Watch my research talk here](https://www.youtube.com/watch?v=1Rq5uKEMlOo)
+  
 - 👯 I’m looking to collaborate on:  
   Open-source bioinformatics tools, epigenetic data analysis, and reproducible research.
 
